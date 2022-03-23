@@ -1,2 +1,2 @@
-# martinstejskal.github.io
+# martin-stejskal.github.io
 Martin Stejskal
